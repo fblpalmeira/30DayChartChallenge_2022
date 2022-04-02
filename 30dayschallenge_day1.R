@@ -29,7 +29,7 @@ png(file = "30dayschallenge_day1.png", width = 1024, height = 510)
 library(png)
 library(patchwork)    
 
-my_image <- readPNG("lagarto.png", native = TRUE)
+my_image <- readPNG("https://github.com/fblpalmeira/reptiles_database/blob/main/lagarto.png", native = TRUE)
 
 library(waffle)
 
