@@ -1,4 +1,5 @@
 library(tidyverse)
+library(rvest)
 
 content <- read_html("http://www.reptile-database.org/db-info/SpeciesStat.html")
 
