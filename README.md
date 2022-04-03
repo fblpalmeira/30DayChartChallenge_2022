@@ -1,6 +1,6 @@
 # #30DayChartChallenge_2022
 
-# Day 1 (1 April 2022)
+# Day 1 (1 April 2022) - Part-to-whole
 
 Web scraping of [the reptile database](http://www.reptile-database.org/db-info/SpeciesStat.html) to show in a waffle chart  how many species of reptiles are known, except for a single species of Rhynchocephalia (tuataras) which could not be included in the analysis.
 
